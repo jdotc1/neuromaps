@@ -1,3 +1,13 @@
+.. rubric:: About this fork
+
+This is a development fork of `netneurolab/neuromaps <https://github.com/netneurolab/neuromaps>`__, a Python toolbox for comparing brain maps across coordinate systems. Its annotation library, transformations between volume and surface spaces, and spatial null models support questions such as how a functional map relates to receptor or microstructural maps.
+
+Fork work is tracked in `upstream PR #226 <https://github.com/netneurolab/neuromaps/pull/226>`__, proposing literal path handling in Connectome Workbench resampling. It was open on 17 October 2026; the linked feature branch contains the proposal, while this default branch is the development base.
+
+Start with the `official documentation <https://netneurolab.github.io/neuromaps/>`__ for installation, transformation requirements, examples, and data-source citations. `Compare branches <https://github.com/jdotc1/neuromaps/compare/netneurolab:main...jdotc1:main>`__ to inspect the default branch against upstream. The original README follows.
+
+.. rubric:: Upstream README
+
 .. image:: https://github.com/netneurolab/neuromaps/raw/main/docs/_static/neuromaps_logo.png
 
 |
